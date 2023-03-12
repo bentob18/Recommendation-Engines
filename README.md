@@ -5,7 +5,7 @@ In this project we are using Jupyter Notebook. We are also using sobre librarys 
 1. Pandas
 2. Numpy
 3. Matplotlib
-#File description 
+# File description 
 In this project we have 2 CSV files:
 1. articles_community carries the information about some IBM articles created by the community.
 2. user
