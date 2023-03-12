@@ -12,9 +12,9 @@ In this project we have 2 CSV files:
 # About this project
 I'm going to perform a lot of my recommendation skills on real data from the IBM Watson Studio platform. These skills are tabled below.
 # Table of Contents
-I. Exploratory Data Analysis.
-II. Rank Based Recommendations.
-III. User-User Based Collaborative Filtering.
-IV. Content Based Recommendations ( Erased ).
-V. Matrix Factorization.
-VI. Extras & Concluding.
+Below i've listed the table of contents for this project:
+1. Exploratory Data Analysis.
+2. Rank Based Recommendations.
+3. User-User Based Collaborative Filtering.
+5. Matrix Factorization.
+6. Extras & Concluding.
