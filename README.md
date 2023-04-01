@@ -1,3 +1,5 @@
+# Certification of the Udacity Data Science course
+![Captura de tela 2023-04-01 125957](https://user-images.githubusercontent.com/103281382/229301602-73248689-2f0a-4069-a3b3-701999ac8a22.png)
 # Recommendation-Engines
 A recommentaion engine with IBM public data
 # Installation
